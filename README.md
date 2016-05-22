@@ -1,6 +1,6 @@
 # launchpad
 
-Feel like a DJ by just pressing buttons
+[WIP] Feel like a DJ by just pressing buttons
 
 Getting Started
 --------------
